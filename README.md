@@ -1,9 +1,9 @@
 # Eventos
 
-#POPAYANJS
+#POPAYANJS 26 DE FEB 2015
 
 Terminamos Febrero y arranca una nueva comunidad JS. 
-
+<br/>
 Agenda:
 7:00pm PopayanJs - Alex Herrera
 7:30pm ES6: Introduccion - Hernan Camilo Gomez Ruiz
